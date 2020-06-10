@@ -1,0 +1,7 @@
+Relatório Janeiro
+
+Codigo Produto Valor_Unitario Qtd_Vendida
+1 Cama 859.99 5
+2 Colchão 459.99 10
+3 Lençol 45.99 13
+4 Fronha 25.99 2
